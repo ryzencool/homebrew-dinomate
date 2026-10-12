@@ -1,6 +1,6 @@
 cask "dinomate" do
-  version "0.1.4"
-  sha256 "cc3a425f2396ae1d34245d603e13784f1a872f070e4f6aeaab06d591f7d1f27a"
+  version "0.1.5"
+  sha256 "e38346c8d4b44918c31fb8327bcfb1cbac46dc1f1e5cfe74e1a1a36736d0f7cb"
 
   url "https://dinoapp.s3.bitiful.net/app/dinomate/mac-arm64/DinoMate-#{version}-mac-arm64.zip"
   name "DinoMate"
